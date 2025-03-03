@@ -4,7 +4,7 @@ Projeto de uma Calculadora de Índice de Massa Corporal (IMC), desenvolvido em *
 <img src="https://github.com/user-attachments/assets/1a60881f-76e5-46b8-8995-6028060e6bb3" width="200px" />
 
 # Sobre o Projeto 📄
-  Com esse projeto o usuário poderá inserir seu peso e altura, para calcular seu IMC e exibir o resultado em uma janela gráfica.
+  Com esse repositório o usuário poderá inserir seu peso e altura, para calcular seu IMC e exibir o resultado em uma janela gráfica.
   Após calcular o IMC, é possível criar uma função que interpreta o resultado e exibe uma mensagem indicando em qual faixa de classificação o usuário se encontra.
  
 ## Como Funciona 🎯
