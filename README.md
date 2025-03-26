@@ -17,7 +17,7 @@ Projeto de uma Calculadora de Índice de Massa Corporal (IMC), desenvolvido em *
   
 ## Recursos 📂
   - O Tkinter foi utilizado para criar a interface visual da calculadora, como os campos de entrada e o botão de cálculo.
-  - Com esse projeto pude praticar os conceitos básicos de programação e familiarizar-se com a criação de GUIs em Python.
+  - Com esse projeto pude praticar os conceitos básicos de programação e familiarizar-se com a criação de GUI's em Python.
 
   # Tecnologias 💻
   Para a realização de projeto, foi utilizado a linguagem de programação **Python** 👩🏻‍💻 🇵🇾.
