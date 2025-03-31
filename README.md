@@ -11,9 +11,9 @@ Projeto de uma Calculadora de Índice de Massa Corporal (IMC), desenvolvido em *
 <div> 
   <ul>Por exemplo:
     <li>📌 Se o IMC for menor que 18.5, podemos exibir a mensagem "Seu IMC é: Abaixo do peso".
-    <li>📌 Se o IMC for maior ou igual à 18.5 e menor que 25, podemos exibir a mensagem "Seu IMC é: Normal"
+    <li>📌 Se o IMC for maior ou igual à 18.5 e menor que 25, podemos exibir a mensagem "Seu IMC é: Normal".
     <li>📌 Se o IMC for maior ou igual à 25 e menor que 30, podemos exibir a mensagem "Seu IMC é: Sobrepeso".
-    <li>📌 Se o IMC for maior que 30, podemos exibir a mensagem "Seu IMC é: Obesidade"
+    <li>📌 Se o IMC for maior que 30, podemos exibir a mensagem "Seu IMC é: Obesidade".
   
 ## Recursos 📂
   - O Tkinter foi utilizado para criar a interface visual da calculadora, como os campos de entrada e o botão de cálculo.
