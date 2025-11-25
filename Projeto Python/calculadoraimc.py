@@ -35,8 +35,8 @@ app_linha.place(x=0, y=35)
 
 def calcular():
 
-    peso = float(locale.atof(e_peso.get()))
-    altura = float(locale.atof(e_altura.get()))
+    peso = locale.atof(e_peso.get())
+    altura = locale.atof(e_altura.get())
 
     imc = peso / altura**2
 
