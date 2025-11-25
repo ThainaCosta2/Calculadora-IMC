@@ -1,6 +1,9 @@
 from tkinter import *
 from tkinter import ttk
 
+import locale
+locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
+
 # Cores
 
 co0 = '#ffffff' #branca #white
@@ -32,8 +35,8 @@ app_linha.place(x=0, y=35)
 
 def calcular():
 
-    peso = float(e_peso.get())
-    altura = float(e_altura.get())
+    peso = locale.atof(e_peso.get())
+    altura = locale.atof(e_altura.get())
 
     imc = peso / altura**2
 
